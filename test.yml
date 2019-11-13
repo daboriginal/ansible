@@ -1,0 +1,8 @@
+- name: TEST Play
+  hosts: all
+  vars:
+    download_dir: C:\users
+  vars_files:
+    - borovkov.yml
+  tasks:
+    - name: 
