@@ -1,0 +1,9 @@
+---
+- name: Install ESET
+  win_package:
+    path: \\diskstation\software\msi\ESMC_Installer_x64_ru_RU.exe
+    creates_service: ekrn
+    arguments: 
+    - --silent
+    - --accepteula
+    state: present

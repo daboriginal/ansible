@@ -1,0 +1,5 @@
+---
+- include: install_packages.yml
+- include: install_ESET.yml
+- include: install_MSOffice19.yml
+#- include: install_ANSYS.yml

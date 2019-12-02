@@ -1,0 +1,8 @@
+---
+- name: Install MSO
+  win_package: 
+    path: \\diskstation\software\office\office2019\setup.exe 
+    creates_path: C:\Program Files\Microsoft Office\root\Office16
+    args:
+      - /configure configuration-Office2019Enterprise.xml
+    

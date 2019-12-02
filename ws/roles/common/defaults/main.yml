@@ -1,0 +1,12 @@
+---
+win_packages:
+  - 7zip
+  - sublimetext3
+  - winscp
+  - filezilla
+  - imagemagick
+  - k-litecodecpackmega
+  - foxitreader
+  - paint.net
+  - notepadplusplus
+  - firefox

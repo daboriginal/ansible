@@ -1,0 +1,14 @@
+---
+win_packages:
+  - 7zip
+  - sublimetext3
+  - winscp
+  - filezilla
+  - imagemagick
+  - k-litecodecpackmega
+  - foxitreader
+  - paint.net
+  - notepadplusplus
+  - firefox
+
+ansys_root: "\\diskstation\software\ANSYS\Windows x64"
